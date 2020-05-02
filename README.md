@@ -7,4 +7,4 @@ This is a little script that helps you to remove disks, because for example the 
 * Access to Read program
 * It's not a package dependency, is a use dependency: ROOT ACCESS
 ###### Install:
-* You can install it where you want.
+* You can install it anywhere you want.
